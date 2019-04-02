@@ -8,9 +8,9 @@ I made a handy dandy little script for both Python and MATLAB to check that all 
 
 ## To Run
 
- 	1. Copy it into your submission folder 
- 	2. Open a terminal window and cd to the folder
- 	3. Type `python fileTestScript.py`
- 	4. Enter which language you have used for the coursework.
+1. Copy it into your submission folder 
+2. Open a terminal window and cd to the folder
+3. Type `python fileTestScript.py`
+4. Enter which language you have used for the coursework.
 
 Note: This will not change any of your files
