@@ -74,8 +74,6 @@ while True:
     env = input("Type 'py' for Python and 'm' for MATLAB -----  ")
     if env == 'py' or env == 'm':
         break
-    else:
-        env = input("Type 'py' for Python and 'm' for MATLAB -----  ")
 
 a = check_files(env=env)
-input("Press any key to exit")
+input("Press Enter key to exit   -   ")
